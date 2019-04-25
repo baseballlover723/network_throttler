@@ -11,7 +11,7 @@ TODO: Write installation instructions here
 TODO: Write usage instructions here
 
 ## Development
-
+`shards build --progress && ./bin/network_throttling`
 TODO: Write development instructions here
 
 ## Contributing
