@@ -1,0 +1,13 @@
+name: network_throttling
+version: 0.1.0
+
+authors:
+  - Philip Ross <dev@baseballlover723.com>
+
+targets:
+  network_throttling:
+    main: src/network_throttling.cr
+
+crystal: 0.28.0
+
+license: MIT
