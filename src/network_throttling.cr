@@ -1,6 +1,8 @@
 # TODO: Write documentation for `NetworkThrottling`
+require "./parser"
+
 module NetworkThrottling
   VERSION = "0.1.0"
-
-  # TODO: Put your code here
 end
+puts ARGV
+Parser.parse!
